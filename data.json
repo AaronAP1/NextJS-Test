@@ -1,0 +1,92 @@
+[
+    {
+      "nombre": "Juan Perez",
+      "telefono": "123456789",
+      "direccion": "Calle Falsa 123",
+      "cantidad": "4",
+      "fecha": "2023-12-01T00:00:00.000Z",
+      "hora": "2023-12-01T18:00:00.000Z",
+      "estado": "Pendiente"
+    },
+    {
+      "nombre": "Maria Lopez",
+      "telefono": "987654321",
+      "direccion": "Avenida Siempre Viva 456",
+      "cantidad": "2",
+      "fecha": "2023-12-02T00:00:00.000Z",
+      "hora": "2023-12-02T20:00:00.000Z",
+      "estado": "Confirmada"
+    },
+    {
+      "nombre": "Carlos Sanchez",
+      "telefono": "555123456",
+      "direccion": "Calle Luna 789",
+      "cantidad": "3",
+      "fecha": "2023-12-03T00:00:00.000Z",
+      "hora": "2023-12-03T19:00:00.000Z",
+      "estado": "Cancelada"
+    },
+    {
+      "nombre": "Ana Martinez",
+      "telefono": "444987654",
+      "direccion": "Avenida Sol 321",
+      "cantidad": "5",
+      "fecha": "2023-12-04T00:00:00.000Z",
+      "hora": "2023-12-04T21:00:00.000Z",
+      "estado": "Pendiente"
+    },
+    {
+      "nombre": "Luis Gomez",
+      "telefono": "333654987",
+      "direccion": "Calle Estrella 654",
+      "cantidad": "1",
+      "fecha": "2023-12-05T00:00:00.000Z",
+      "hora": "2023-12-05T17:00:00.000Z",
+      "estado": "Confirmada"
+    },
+    {
+      "nombre": "Laura Fernandez",
+      "telefono": "222321654",
+      "direccion": "Avenida Cometa 987",
+      "cantidad": "6",
+      "fecha": "2023-12-06T00:00:00.000Z",
+      "hora": "2023-12-06T22:00:00.000Z",
+      "estado": "Completada"
+    },
+    {
+      "nombre": "Miguel Torres",
+      "telefono": "111789123",
+      "direccion": "Calle Meteorito 123",
+      "cantidad": "2",
+      "fecha": "2023-12-07T00:00:00.000Z",
+      "hora": "2023-12-07T18:30:00.000Z",
+      "estado": "Pendiente"
+    },
+    {
+      "nombre": "Sofia Ramirez",
+      "telefono": "666456789",
+      "direccion": "Avenida Galaxia 456",
+      "cantidad": "4",
+      "fecha": "2023-12-08T00:00:00.000Z",
+      "hora": "2023-12-08T19:30:00.000Z",
+      "estado": "Cancelada"
+    },
+    {
+      "nombre": "Diego Herrera",
+      "telefono": "777123987",
+      "direccion": "Calle Universo 789",
+      "cantidad": "3",
+      "fecha": "2023-12-09T00:00:00.000Z",
+      "hora": "2023-12-09T20:30:00.000Z",
+      "estado": "Confirmada"
+    },
+    {
+      "nombre": "Isabel Morales",
+      "telefono": "888987321",
+      "direccion": "Avenida Nebulosa 321",
+      "cantidad": "5",
+      "fecha": "2023-12-10T00:00:00.000Z",
+      "hora": "2023-12-10T21:30:00.000Z",
+      "estado": "Completada"
+    }
+  ]
